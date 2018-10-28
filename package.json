@@ -1,5 +1,8 @@
 {
   "name": "mysite",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "popper.js": "^1.14.4",
+    "tooltip.js": "^1.3.0"
+  }
 }
